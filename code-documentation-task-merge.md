@@ -1,7 +1,8 @@
 # Task Manager (Python) — Code Documentation Exercise
 
-**WeThinkCode — Generative AI Program**
+
 **Exercise:** Code Documentation
+
 **Code chosen:** Task list merging — `merge_task_lists()` / `resolve_task_conflict()` (`task_list_merge.py`)
 
 ---
